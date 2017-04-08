@@ -1,0 +1,4 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\Assembly_2\bin\Debug\Builder.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\Assembly_2\bin\Debug\Builder.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\Assembly_2\obj\Debug\Builder.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\Assembly_2\obj\Debug\Builder.pdb

@@ -1,0 +1,7 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\bin\Debug\ConcreteBuilder.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\bin\Debug\ConcreteBuilder.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\bin\Debug\Builder.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\bin\Debug\Builder.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\obj\Debug\ConcreteBuilder.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\obj\Debug\ConcreteBuilder.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_2\ConcreteBuilder\obj\Debug\ConcreteBuilder.pdb
