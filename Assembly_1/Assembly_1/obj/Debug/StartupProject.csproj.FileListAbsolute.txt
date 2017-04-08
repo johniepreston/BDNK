@@ -1,0 +1,10 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\Assembly_1.exe.config
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\Assembly_1.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\Assembly_1.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\AbstractFactory.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\ConcreteFactory.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\AbstractFactory.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\bin\Debug\ConcreteFactory.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\obj\Debug\StartupProject.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\obj\Debug\Assembly_1.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_1\Assembly_1\obj\Debug\Assembly_1.pdb
