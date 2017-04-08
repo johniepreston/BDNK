@@ -1,0 +1,7 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\obj\Debug\ConcreteCreator.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\bin\Debug\ConcreteCreator.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\bin\Debug\ConcreteCreator.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\bin\Debug\Creator.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\bin\Debug\Creator.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\obj\Debug\ConcreteCreator.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\ConcreteCreator\obj\Debug\ConcreteCreator.pdb

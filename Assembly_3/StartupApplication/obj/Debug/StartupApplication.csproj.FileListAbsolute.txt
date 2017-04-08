@@ -1,0 +1,10 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\StartupApplication.exe.config
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\obj\Debug\StartupApplication.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\StartupApplication.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\StartupApplication.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\ConcreteCreator.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\Creator.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\ConcreteCreator.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\bin\Debug\Creator.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\obj\Debug\StartupApplication.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Assembly_3\StartupApplication\obj\Debug\StartupApplication.pdb
