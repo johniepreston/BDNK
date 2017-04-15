@@ -1,0 +1,10 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\Client.exe.config
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\Client.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\Client.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\ConcretePrototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\Prototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\ConcretePrototype.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\bin\Debug\Prototype.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\obj\Debug\Client.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Client\obj\Debug\Client.pdb

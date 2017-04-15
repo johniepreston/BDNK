@@ -1,0 +1,7 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\bin\Debug\ConcretePrototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\bin\Debug\ConcretePrototype.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\bin\Debug\Prototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\bin\Debug\Prototype.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\obj\Debug\ConcretePrototype.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\obj\Debug\ConcretePrototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\ConcretePrototype\obj\Debug\ConcretePrototype.pdb

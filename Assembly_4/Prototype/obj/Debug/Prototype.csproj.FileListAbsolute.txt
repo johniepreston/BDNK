@@ -1,0 +1,5 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb
