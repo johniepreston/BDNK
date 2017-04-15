@@ -1,0 +1,7 @@
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\bin\Debug\Abstraction.dll
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\bin\Debug\Implementor.dll
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\bin\Debug\Implementor.pdb
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\obj\Debug\Abstraction.dll
+C:\Users\Blackwood\Documents\Visual Studio 2015\Projects\Bridge\Abstraction\obj\Debug\Abstraction.pdb
