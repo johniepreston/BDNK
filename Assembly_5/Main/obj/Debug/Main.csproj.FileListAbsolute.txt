@@ -1,0 +1,5 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Main\Main\bin\Debug\Main.exe.config
+c:\users\blackwood\documents\visual studio 2015\Projects\Main\Main\bin\Debug\Main.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Main\Main\bin\Debug\Main.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Main\Main\obj\Debug\Main.exe
+c:\users\blackwood\documents\visual studio 2015\Projects\Main\Main\obj\Debug\Main.pdb
