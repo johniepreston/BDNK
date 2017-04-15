@@ -1,0 +1,4 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\Component\bin\Debug\Component.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\Component\bin\Debug\Component.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\Component\obj\Debug\Component.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\Component\obj\Debug\Component.pdb

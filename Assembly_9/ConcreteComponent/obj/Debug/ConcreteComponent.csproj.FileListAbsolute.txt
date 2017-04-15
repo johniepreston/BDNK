@@ -1,0 +1,7 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\bin\Debug\ConcreteComponent.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\bin\Debug\ConcreteComponent.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\bin\Debug\Component.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\bin\Debug\Component.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\obj\Debug\ConcreteComponent.csprojResolveAssemblyReference.cache
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\obj\Debug\ConcreteComponent.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Decorator\ConcreteComponent\obj\Debug\ConcreteComponent.pdb

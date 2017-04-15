@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{7C9FC455-12BC-4955-8252-1A5939F600DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Component", "Component\Component.csproj", "{0E0A7377-4656-4C3A-A900-BC3372175C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcreteComponent", "ConcreteComponent\ConcreteComponent.csproj", "{CA52EF49-6456-4047-9F6E-B4D81C2B406D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9FC455-12BC-4955-8252-1A5939F600DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9FC455-12BC-4955-8252-1A5939F600DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9FC455-12BC-4955-8252-1A5939F600DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9FC455-12BC-4955-8252-1A5939F600DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0A7377-4656-4C3A-A900-BC3372175C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0A7377-4656-4C3A-A900-BC3372175C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0A7377-4656-4C3A-A900-BC3372175C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0A7377-4656-4C3A-A900-BC3372175C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA52EF49-6456-4047-9F6E-B4D81C2B406D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA52EF49-6456-4047-9F6E-B4D81C2B406D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA52EF49-6456-4047-9F6E-B4D81C2B406D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA52EF49-6456-4047-9F6E-B4D81C2B406D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
