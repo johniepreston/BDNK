@@ -1,0 +1,4 @@
+c:\users\blackwood\documents\visual studio 2015\Projects\Adaptee\Adaptee\bin\Debug\Adaptee.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Adaptee\Adaptee\bin\Debug\Adaptee.pdb
+c:\users\blackwood\documents\visual studio 2015\Projects\Adaptee\Adaptee\obj\Debug\Adaptee.dll
+c:\users\blackwood\documents\visual studio 2015\Projects\Adaptee\Adaptee\obj\Debug\Adaptee.pdb

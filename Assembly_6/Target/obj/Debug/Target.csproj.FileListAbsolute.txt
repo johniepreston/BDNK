@@ -1,0 +1,5 @@
+c:\Users\blackwood\documents\visual studio 2015\Projects\Adaptee\Target\bin\Debug\Target.dll
+c:\Users\blackwood\documents\visual studio 2015\Projects\Adaptee\Target\bin\Debug\Target.pdb
+c:\Users\blackwood\documents\visual studio 2015\Projects\Adaptee\Target\obj\Debug\Target.csprojResolveAssemblyReference.cache
+c:\Users\blackwood\documents\visual studio 2015\Projects\Adaptee\Target\obj\Debug\Target.dll
+c:\Users\blackwood\documents\visual studio 2015\Projects\Adaptee\Target\obj\Debug\Target.pdb
