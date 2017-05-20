@@ -17,7 +17,6 @@ namespace Iterator
         {
             get { return _list.Count; }
         }
-
         public T Get(int index)
         {
             return _list[index];

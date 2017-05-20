@@ -10,13 +10,13 @@ namespace Iterator
     {
         static void Main(string[] args)
         {
-            IList<string> list = new List<string>() { "Катя", "Маша", "Паша", "Игорь" };
+            IList<string> list = new List<string>() { "Катя", "Маша", "Петя", "Саша" };
             IAgregator<string> myList = new MyList<string>(list);
             IIterator<string> iterator = new MyListIterator<string>(myList);
 
-            for (IIterator<string> i = iterator; !i.IsDone; i.Next())
+            for (IIterator<string> i = iterator; !i.IsDone(); i.Next())
             {
-                Console.WriteLine(i.CurrentItem);
+                Console.WriteLine(i.CurrentItem());
             }
 
             Console.ReadKey();

@@ -12,31 +12,25 @@ namespace Iterator
         {
             _list = list ?? throw new ArgumentNullException("Argument list is null");
         }
-        public bool IsDone
+        public bool IsDone()
         {
-            get
-            {
-                if (_list.Count <= _current)
-                    return true;
-                return false;
-            }
+            if (_list.Count <= _current)
+                return true;
+            return false;
         }
-
-        public T CurrentItem
+        public T CurrentItem()
         {
-            get { return _list.Get(_current); }
+            return _list.Get(_current);
         }
-
         public T First()
         {
             return _list.Get(0);
         }
-
         public T Next()
         {
             _current++;
 
-            if (!IsDone)
+            if (!IsDone())
                 return _list.Get(_current);
 
             return default(T);

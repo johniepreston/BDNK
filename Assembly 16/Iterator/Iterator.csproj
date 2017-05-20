@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3D9AC9CC-9D7D-432A-AD99-DB29436FA891}</ProjectGuid>
+    <ProjectGuid>{02DB5279-D68A-4AFD-B631-0E274AEDD241}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Iterator</RootNamespace>
     <AssemblyName>Iterator</AssemblyName>

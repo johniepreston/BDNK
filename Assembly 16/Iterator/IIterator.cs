@@ -10,7 +10,7 @@ namespace Iterator
     {
         T First();
         T Next();
-        bool IsDone { get; }
-        T CurrentItem { get; }
+        bool IsDone();
+        T CurrentItem();
     }
 }
